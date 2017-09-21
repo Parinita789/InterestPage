@@ -1,0 +1,93 @@
+body{
+  background-color: #f7d3d3;
+}
+.borderdiv {
+  
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-color: Royalblue;
+  border-width: 1px;
+  padding-left: 4px;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+.text{
+  font-size : 1.4 em;
+}
+.seconddiv{
+  border: solid;
+  border-color: Dukeblue;
+  border-width: 1px;
+  margin: 0px 2px 15px 2px;
+  padding: 0px 17px 5px 17px;
+  border-radius: 25px;
+}
+.thirddiv{
+  border: solid;
+  border-color: Dukeblue;
+  border-width: 1px;
+  margin: 0px 2px 15px 2px;
+  padding: 0px 17px 5px 17px;
+  border-radius: 25px;
+}
+.fourthdiv{
+  border: solid;
+  border-color: Dukeblue;
+  border-width: 1px;
+  margin: 0px 2px 15px 2px;
+  padding: 0px 17px 5px 17px;
+  border-radius: 25px;
+}
+.fifthdiv{
+ border: solid;
+  border-color: Dukeblue;
+  border-width: 1px;
+  margin: 0px 2px 15px 2px;
+  padding: 0px 17px 5px 17px;
+  border-radius: 25px; 
+}
+.sixthdiv{
+ border: solid;
+  border-color: Dukeblue;
+  border-width: 1px;
+  margin: 0px 2px 15px 2px;
+  padding: 0px 17px 5px 17px;
+  border-radius: 25px;  
+}
+.fooddiv{
+  text-align:center;
+  color:#00b3b3;
+}
+.Styles {
+  border-style:solid;
+  margin:auto;
+}
+
+h1{
+  text-align : center;
+  color : blue;
+  font-size : 2em;
+}
+h2{
+  font-size : 1.5em;
+}
+h3{
+  font-size : 1.2em;
+}
+img {
+  width: 20em;
+  border: solid;
+  border-width: 1px;
+  border-color: GhostWhite;
+}
+li {
+  font-size: 1.2em;
+}
+
+table {
+  margin: auto;
+}
+.bottom {
+  
+  font-family: Verdana, Geneva, sans-serif;
+}
